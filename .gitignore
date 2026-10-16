@@ -7,3 +7,8 @@ __pycache__/
 *.egg-info/
 .venv/
 .vscode/
+
+# Local, solo para Claude y notas personales
+CLAUDE.md
+CLAUDE.local.md
+docs/
